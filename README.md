@@ -1,7 +1,5 @@
 
-# 💼 Portfólio Pessoal
-
-👤 Sobre Mim | Nome: Melissa Rafaela Pereira | Idade: 17 anos 🎂 | Localização: Jaraguá do Sul, SC 🌎 | Experiência de Vida: Morei por 6 anos em Linhares, ES 🏖️.
+# 💼 Melissa Rafaela Pereira.
 
 
 
