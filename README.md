@@ -15,21 +15,39 @@
 ---
 
 🛠️ **Habilidades**
+<h3>🛠️ Habilidades</h3>
 
-- **Linguagens de Programação**:  
-  Java ☕ | Iniciando em Python 🐍 e HTML 🌐
+<table>
+  <thead>
+    <tr>
+      <th>Categoria</th>
+      <th>Descrição</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>🧑‍💻 Linguagens de Programação</td>
+      <td>Java ☕, iniciando em Python 🐍 e HTML 🌐</td>
+    </tr>
+    <tr>
+      <td>🌐 Desenvolvimento Web</td>
+      <td>Front-end 💡, Back-end 🔧</td>
+    </tr>
+    <tr>
+      <td>🗃️ Banco de Dados</td>
+      <td>MySQL 🗃️</td>
+    </tr>
+    <tr>
+      <td>⚙️ Metodologias Ágeis</td>
+      <td>Scrum ⏱️</td>
+    </tr>
+    <tr>
+      <td>🤝 Soft Skills</td>
+      <td>Trabalho em equipe 🤝, resolução de problemas complexos 🧩</td>
+    </tr>
+  </tbody>
+</table>
 
-- **Desenvolvimento Web**:  
-  Front-end 💡 | Back-end 🔧
-
-- **Banco de Dados**:  
-  MySQL 🗃️
-
-- **Metodologias Ágeis**:  
-  Scrum ⏱️
-
-- **Soft Skills**:  
-  Trabalho em equipe 🤝 | Resolução de problemas complexos 🧩
 
 ---
 
