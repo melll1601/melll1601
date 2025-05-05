@@ -1,5 +1,3 @@
-<!-- Banner ou imagem em tela cheia -->
-<img src="https://github.com/user-attachments/assets/75369a75-b6f5-44ae-a750-560283a582cb" alt="WegOne Banner" style="width: 20%; height: auto;" />
 
 # 💼 Melissa Rafaela Pereira
 
