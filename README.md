@@ -26,10 +26,6 @@ Metodologias Ágeis: Scrum ⏱️.
 
 Trabalho em equipe 🤝 e resolução de problemas complexos 🧩.
 
-<div style="display: flex; justify-content: space-between; gap: 10px;">
-  <img loading="lazy" src="https://img.shields.io/badge/%20JAVA-FF69B4?style=for-the-badge&logo=" style="width: 100px;"/>
-  <img loading="lazy" src="https://img.shields.io/badge/%20MYSQL-32CD32?style=for-the-badge&logo=" style="width: 120px;"/>
-</div>
 
 📬 Contato
 Email: melissa_r_pereira@estudante.sesisenai.org.br
