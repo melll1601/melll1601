@@ -14,7 +14,6 @@
 
 ---
 
-🛠️ **Habilidades**
 <h3>🛠️ Habilidades</h3>
 
 <table>
