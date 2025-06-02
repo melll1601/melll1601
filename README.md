@@ -15,24 +15,9 @@ Tenho aprendido na prática sobre desenvolvimento de software, trabalho em equip
 <div style="display: inline_block"> <br> <img align="center" alt="Melissa-Java" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" /> <img align="center" alt="Melissa-Python" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /> <img align="center" alt="Melissa-HTML" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" /> <img align="center" alt="Melissa-MySQL" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" /> <img align="center" alt="Melissa-Jira" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original-wordmark.svg" /> <img align="center" alt="Melissa-VSCode" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" /> <img align="center" alt="Melissa-Eclipse" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" /> </div>
 📊 GitHub Stats
 <table> <tr> <td> <img align="left" src="https://github-readme-stats.vercel.app/api?username=MelissaRP&theme=radical&hide_border=false&include_all_commits=true&show_icons=true" alt="Github Stats" /> </td> <td> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MelissaRP&theme=radical&hide_border=false&layout=compact" alt="Top Langs" /> </td> </tr> </table>
-👩‍💻 Sobre mim
-java
-Copiar
-Editar
-public class Melissa {
 
-    private String name = "Melissa Rafaela Pereira";
-    private String role = "Aprendiz de Desenvolvimento de Sistemas";
-    private String passion = "Tecnologia e Inovação";
-    private String learning = "Java, Python, HTML, MySQL";
-    private String skills = "Trabalho em equipe, resolução de problemas, comunicação";
-    private String goal = "Me tornar uma profissional Full Stack!";
-    
-}
 📬 Contato
 ✉️ melissa_r_pereira@estudante.sesisenai.org.br
 
-“O único lugar onde o sucesso vem antes do trabalho é no dicionário.”
-— Albert Einstein
 
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=20&pause=1000&color=EC4899&center=true&vCenter=true&width=600&lines=Obrigada+por+visitar+meu+perfil!;Vamos+construir+juntos+o+futuro+da+tecnologia+💻" alt="Footer Typing SVG" /> </p>
