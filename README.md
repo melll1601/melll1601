@@ -21,3 +21,5 @@ Tenho aprendido na prática sobre desenvolvimento de software, trabalho em equip
 
 
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=20&pause=1000&color=EC4899&center=true&vCenter=true&width=600&lines=Obrigada+por+visitar+meu+perfil!;Vamos+construir+juntos+o+futuro+da+tecnologia+💻" alt="Footer Typing SVG" /> </p>
+
+![footer](https://github.com/user-attachments/assets/6098bc3b-1a35-4df2-85a2-c33028e73512)
