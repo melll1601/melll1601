@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=20&pause=1000&color=EC4899&center=true&vCenter=true&width=600&lines=Olá%2C+eu+sou+a+Melissa!;Apaixonada+por+tecnologia+e+aprendizado+contínuo;Sempre+em+busca+de+evolução+e+conhecimento+🚀" alt="Typing SVG" /> </p>
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=20&pause=1000&color=EC4899&center=true&vCenter=true&width=600&lines=Olá%2C+eu+sou+a+Melissa!+😸+😺;" alt="Typing SVG" /> </p>
 
 
 ---
