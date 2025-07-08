@@ -51,8 +51,3 @@
 </table>
 
 <br>
-
-<p align="left">
-  <img src="assets/luffy.gif" alt="alt text" style="height:300px; width:980px;" />
-</p>
-
