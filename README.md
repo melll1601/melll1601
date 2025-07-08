@@ -50,4 +50,4 @@
 
 
 
-![footer](![alt text](assets/luffy.gif))
+(![alt text](assets/luffy.gif))
