@@ -32,6 +32,8 @@
   <img align="center" alt="Melissa-VSCode" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
   <img align="center" alt="Melissa-Eclipse" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" />
   <img align="center" alt="Melissa-Figma" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+  <img align="center" alt="Melissa-C++" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c++/c++-original.svg" />
+  <img align="center" alt="Melissa-Arduino" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/Arduino/Arduino-original.svg" />
 
 </div>
 
