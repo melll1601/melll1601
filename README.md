@@ -34,8 +34,7 @@
   <img align="center" alt="Melissa-Figma" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
   <img align="center" alt="Melissa-C++" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
   <img align="center" alt="Melissa-Arduino" height="40" width="60"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" />
-  <img align="center" alt="Melissa-Opera" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opera/opera-original.svg" />
-  <img align="center" alt="Melissa-Opera" height="40" width="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
+  <img align="center" alt="Melissa-Git" height="40" width="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
 
 </div>
 <br>
