@@ -18,7 +18,7 @@
 ⏳ Duração: 2 anos
 
 ---
-🌟 Tecnologias que estou aprendendo
+🌟 Tecnologias utilizadas e em aprendizado
 
 
 <div style="display: inline-block">
