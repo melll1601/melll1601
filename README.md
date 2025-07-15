@@ -18,7 +18,7 @@
 ⏳ Duração: 2 anos
 
 ---
-🌟 Tecnologias utilizadas e em aprendizado
+### 🌟 Tecnologias utilizadas e em aprendizado
 
 
 <div style="display: inline-block">
