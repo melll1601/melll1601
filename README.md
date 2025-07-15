@@ -12,7 +12,7 @@
 
 ---
 
-### 😺 Aprendizagem & Experiência
+### 😺 Aprendizagem
 
 **Curso:** Aprendizagem - Desenvolvimento de Sistemas (WEG)  
 ⏳ Duração: 2 anos
