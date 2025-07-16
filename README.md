@@ -46,7 +46,7 @@
 <table>
   <tr>
     <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=melll1601&theme=radical&hide_border=false&layout=compact" alt="Top Langs" style="width: 320px;" />
+       <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melll1601&layout=compact&langs_count=7&theme=dracula" style="width: 320px;" />
     </td>
     <td>
       <p align="center"> <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=20&pause=1000&color=EC4899&center=true&vCenter=true&width=600&lines=😺+Até+logo+!+😽" alt="Footer Typing SVG" /> </p>
