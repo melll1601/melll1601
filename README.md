@@ -56,5 +56,5 @@
 
 <br>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/cc407e07-1d17-42a4-a8b4-526b28bfa228" />
+  <img src="https://raw.githubusercontent.com/melll1601/snk/7efb76a77905bb78c9e4ae7208baa232a75e13aa/only-svg/github-contribution-grid-snake-blue.svg" />
 </p>
