@@ -30,6 +30,8 @@
   <img src="https://skillicons.dev/icons?i=java,python,cpp,html,css,js,arduino,mysql,maven,git,figma,vscode,eclipse&theme=dark" />
 </p>
 
+<br>
+<br>
 
 <table>
   <tr>
